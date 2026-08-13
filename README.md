@@ -13,3 +13,6 @@ El fenómeno de El Niño es un evento climático que calienta las aguas del océ
 -Aumento de enfermedades.
 -Daños en viviendas y carreteras.
 -Pérdidas económicas.
+
+Como prevenirlo:
+Aunque el Fenómeno El Niño no puede evitarse, podemos prevenir y reducir sus efectos tomando medidas de preparación. Es importante mantener limpios los techos, canaletas, calles y sistemas de drenaje para evitar inundaciones, así como no arrojar basura en ríos, quebradas o desagües. También debemos identificar las zonas seguras y las rutas de evacuación, participar en simulacros y preparar una mochila de emergencia con agua, alimentos no perecibles, linterna, radio, botiquín y documentos importantes. Durante las lluvias intensas, debemos evitar cruzar ríos, quebradas o calles inundadas, alejarnos de cables eléctricos y seguir siempre las indicaciones de las autoridades. La prevención y la organización de las familias y la comunidad son fundamentales para proteger nuestras vidas y reducir los daños que puede ocasionar este fenómeno.
