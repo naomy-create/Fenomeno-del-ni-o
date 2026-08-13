@@ -5,3 +5,11 @@ Hablaremos sobre las causas, consecuencias y como prevenirnos ante el fenomeno d
 La causa principal del Fenómeno del Niño es un cambio en la interacción entre el océano Pacífico y la atmósfera, desencadenado por el debilitamiento de los vientos alisios.
 Durante El Niño: Los vientos alisios pierden fuerza o cambian de dirección. Al no haber viento suficiente que empuje esa agua, el agua cálida se desplaza hacia el este, 
 acumulándose frente a las costas de América del Sur (como Perú y Ecuador).
+
+El fenómeno de El Niño es un evento climático que calienta las aguas del océano Pacífico ecuatorial y altera el clima en muchas regiones del mundo. Sus principales consecuencias son:
+-Inundaciones y huaicos.
+-Pérdidas agrícolas.
+-Disminución de la pesca.
+-Aumento de enfermedades.
+-Daños en viviendas y carreteras.
+-Pérdidas económicas.
